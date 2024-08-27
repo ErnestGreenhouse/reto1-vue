@@ -28,9 +28,9 @@ export default {
   data() {
     return {
       tasks: [
-        { description: 'Return "1984" by George Orwell', completed: false },
-        { description: 'Pick up reserved book', completed: false },
-        { description: 'Pay late fee', completed: false }
+        { description: 'librito 1', completed: false },
+        { description: 'librito 2', completed: false },
+        { description: 'librito 3', completed: false }
       ]
     }
   },
